@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/0.390566508.358682271/PATH/delimiter=\:
+environment/project/0.390566508.358682271/PATH/operation=replace
+environment/project/0.390566508.358682271/PATH/value=${PATH}\:/home/raber/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin
+environment/project/0.390566508.358682271/append=true
+environment/project/0.390566508.358682271/appendContributed=true
